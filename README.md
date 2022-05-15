@@ -1,4 +1,4 @@
-# TO DO LIST MAKER (GESTION DE LISTAS DE TAREAS PENDIENTES)
+# TO DO LIST MAKER (CREADOR DE LISTAS DE TAREAS)
 
 Pequeño formulario que crea una lista de tareas en React JS 
 
