@@ -2,7 +2,7 @@
 
 Mini proyecto formulario que crea una lista de tareas en React JS 
 
-<img src="tema.jpg" />
+<img src="./tema.jpg" />
 
 ## Contacto: 
 
